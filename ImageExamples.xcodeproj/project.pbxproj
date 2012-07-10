@@ -20,11 +20,11 @@
 		1F5A088A15ABD4DF002F7067 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1F5A088C15ABD4DF002F7067 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1F5A088E15ABD4DF002F7067 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1F5A089215ABD4DF002F7067 /* ImageExamples-Info.plist */ = {isa = PBXFileReference; path = "ImageExamples-Info.plist"; sourceTree = "<group>"; };
+		1F5A089215ABD4DF002F7067 /* ImageExamples-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ImageExamples-Info.plist"; sourceTree = "<group>"; };
 		1F5A089415ABD4DF002F7067 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1F5A089615ABD4DF002F7067 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1F5A089815ABD4DF002F7067 /* ImageExamples-Prefix.pch */ = {isa = PBXFileReference; path = "ImageExamples-Prefix.pch"; sourceTree = "<group>"; };
-		1F5A089915ABD4DF002F7067 /* JKAppDelegate.h */ = {isa = PBXFileReference; path = JKAppDelegate.h; sourceTree = "<group>"; };
+		1F5A089815ABD4DF002F7067 /* ImageExamples-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ImageExamples-Prefix.pch"; sourceTree = "<group>"; };
+		1F5A089915ABD4DF002F7067 /* JKAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JKAppDelegate.h; sourceTree = "<group>"; };
 		1F5A089A15ABD4DF002F7067 /* JKAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JKAppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
