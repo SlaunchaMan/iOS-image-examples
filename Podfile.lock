@@ -1,0 +1,5 @@
+PODS:
+  - AmazeKit (0.1.1)
+
+DEPENDENCIES:
+  - AmazeKit (~> 0.1.1)
